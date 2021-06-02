@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\ClassLibrary1\bin\Debug\netstandard2.0\CourseWork.Entities.deps.json
+C:\Users\User\source\repos\ClassLibrary1\bin\Debug\netstandard2.0\CourseWork.Entities.dll
+C:\Users\User\source\repos\ClassLibrary1\bin\Debug\netstandard2.0\CourseWork.Entities.pdb
+C:\Users\User\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\CourseWork.Entities.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\CourseWork.Entities.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\CourseWork.Entities.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\CourseWork.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\CourseWork.Entities.dll
+C:\Users\User\source\repos\ClassLibrary1\obj\Debug\netstandard2.0\CourseWork.Entities.pdb

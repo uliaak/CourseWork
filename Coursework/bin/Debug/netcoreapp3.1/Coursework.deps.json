@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Coursework/1.0.0": {
+        "dependencies": {
+          "CourseWork.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Coursework.dll": {}
+        }
+      },
+      "CourseWork.Entities/1.0.0": {
+        "runtime": {
+          "CourseWork.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coursework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CourseWork.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
